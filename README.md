@@ -3,7 +3,8 @@ Thanks for stopping by the ol' GitHub and feel free to take a look around! <br>
 
 - ![cat_write](https://github.com/greentextterminal/greentextterminal/assets/68518334/555d423d-715c-4214-b1f2-77e5aebde69d)
  I’m currently working on microcontroller projects and making devices
-- ⚛ I’m currently learning about machine learning mathematics, algorithms, and applications
+- ![codes](https://github.com/greentextterminal/greentextterminal/assets/68518334/a66adccc-98ba-428c-90cd-e84e30f8d736)
+ I’m currently learning about machine learning mathematics, algorithms, and applications
 - 🤖 I’m looking to collaborate on any AI/ML projects
 <!--
 **greentextterminal/greentextterminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
