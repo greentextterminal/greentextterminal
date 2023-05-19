@@ -1,6 +1,6 @@
-### ![7001coolanimated](https://github.com/greentextterminal/greentextterminal/assets/68518334/29873d3b-cf8e-4c6d-ae1a-f91398bff46c)Привет, World! 👋 
+### Привет, World! 👋 
 Thanks for stopping by the ol' GitHub and feel free to take a look around! <br>
-
+![7001coolanimated](https://github.com/greentextterminal/greentextterminal/assets/68518334/29873d3b-cf8e-4c6d-ae1a-f91398bff46c)
 - 💻 I’m currently working on microcontroller projects and making devices
 - ⚛ I’m currently learning about machine learning mathematics, algorithms, and applications
 - 🤖 I’m looking to collaborate on any AI/ML projects
