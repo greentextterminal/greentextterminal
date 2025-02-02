@@ -1,7 +1,7 @@
 ### Привет, World! <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/29873d3b-cf8e-4c6d-ae1a-f91398bff46c" width="40">
 Thanks for stopping by the ol' GitHub and feel free to take a look around! <br>
 
-- <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/555d423d-715c-4214-b1f2-77e5aebde69d" width="80"> - <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/a66adccc-98ba-428c-90cd-e84e30f8d736" width="80">
+- <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/555d423d-715c-4214-b1f2-77e5aebde69d" width="80"> <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/a66adccc-98ba-428c-90cd-e84e30f8d736" width="80">
 - You can find me working on FPGA, microcontroller, and analog circuitry projects
 - <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/a66adccc-98ba-428c-90cd-e84e30f8d736" width="80">
 - In my free time you can find me learning about audio processing and HDL/FPGA theory
