@@ -2,7 +2,6 @@
 Thanks for stopping by the ol' GitHub and feel free to take a look around! <br>
 <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/555d423d-715c-4214-b1f2-77e5aebde69d" width="80"> <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/a66adccc-98ba-428c-90cd-e84e30f8d736" width="150">
 - In my free time you can find me learning about and working on audio processing, analog/digital circuitry projects, FPGAs, and microcontrollers <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/b966f15d-45a0-4f94-a00a-a547fd5d8fc0" width="20">
-- <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/b966f15d-45a0-4f94-a00a-a547fd5d8fc0" width="20"> I’m interested in all things related to computers and FPGAs <img src="https://github.com/greentextterminal/greentextterminal/assets/68518334/b966f15d-45a0-4f94-a00a-a547fd5d8fc0" width="20">
 
 <!--
 **greentextterminal/greentextterminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
